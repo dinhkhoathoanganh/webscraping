@@ -1,0 +1,61 @@
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=WTANG" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=WTANG">Assoc Prof Ang Wei Tech</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Executive Director, Rehabilitation Research Institute of Singapore<br/>Associate Professor, School of Mechanical & Aerospace Engineering<br/>
+Email: <a href="mailto: wtang@ntu.edu.sg"> wtang@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=AWFBOH" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2020</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=AWFBOH">Prof Boh Wai Fong</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Deputy Dean, College of Business & Head, Division of Information Technology and Operations Management<br/>Director, IMARC, Information Management Research Centre (IMARC)<br/>
+Email: <a href="mailto: awfboh@ntu.edu.sg"> awfboh@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/PublishingImages/Balazs%20Gulyas.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/Pages/Balazs-Gulyas.aspx">Professor Balázs Gulyás</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>MD, PhD<br/>Professor of Translational Neuroscience and<br/>President's Chair in Translational Neuroscience<br/>Principal Investigator, Translational Neuroscience Laboratory<U+200B><br/>
+Email: <a href="mailto: balazs.gulyas@ntu.edu.sg"> balazs.gulyas@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+

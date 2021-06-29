@@ -1,0 +1,581 @@
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=WTANG" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=WTANG">Assoc Prof Ang Wei Tech</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Executive Director, Rehabilitation Research Institute of Singapore<br/>Associate Professor, School of Mechanical & Aerospace Engineering<br/>
+Email: <a href="mailto: wtang@ntu.edu.sg"> wtang@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=AWFBOH" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2020</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=AWFBOH">Prof Boh Wai Fong</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Deputy Dean, College of Business & Head, Division of Information Technology and Operations Management<br/>Director, IMARC, Information Management Research Centre (IMARC)<br/>
+Email: <a href="mailto: awfboh@ntu.edu.sg"> awfboh@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/PublishingImages/Balazs%20Gulyas.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/Pages/Balazs-Gulyas.aspx">Professor Balázs Gulyás</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>MD, PhD<br/>Professor of Translational Neuroscience and<br/>President's Chair in Translational Neuroscience<br/>Principal Investigator, Translational Neuroscience Laboratory<U+200B><br/>
+Email: <a href="mailto: balazs.gulyas@ntu.edu.sg"> balazs.gulyas@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/PublishingImages/Josip%20Car.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/Pages/Josip-Car.aspx">Professor Josip Car</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>MD, PhD, DIC, MSc, FFPH, FRCP (Edin)<U+200B><br/>Associate Professor of Health Services Outcomes Research,<U+200B><br/>Director, Health Services Outcomes Research Programme and Director, Centre for Population Health Sciences<br/>Principal Investigator, Population Health & Living Laboratory<br/>
+Email: <a href="mailto: josip.car@ntu.edu.sg"> josip.car@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=ANNABELCHEN" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=ANNABELCHEN">Prof Chen Shen-Hsing Annabel</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Director, Cradle@NTU<br/>Professor, School of Social Sciences<br/>
+Email: <a href="mailto: annabelchen@ntu.edu.sg"> annabelchen@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=ASCYMIAO" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ASCYMIAO">Prof Miao Chun Yan</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Chair, School of Computer Science and Engineering<br/>Professor, School of Computer Science and Engineering<br/>
+Email: <a href="mailto: ascymiao@ntu.edu.sg"> ascymiao@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/PublishingImages/Fabian%20Lim.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/Pages/Fabian-Lim.aspx">Associate Professor Fabian CL Lim</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>BSc, MSc, MBA, PhD<br/>Associate Professor of Exercise Physiology<br/>Programme Director for Graduate Diploma in Sports Medicine<br/>Principal Investigator, Exercise Physiology Laboratory<U+200B><U+200B><br/>
+Email: <a href="mailto: fabianlim@ntu.edu.sg"> fabianlim@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=TMAYLWIN" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TMAYLWIN">Prof May Oo Lwin</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Chair<br/>Professor, Wee Kim Wee School of Communication and Information<br/>Associate Dean (Special Projects), College of Humanities, Arts and Social Sciences<br/>Director, University Scholars Programme<br/>
+Email: <a href="mailto: tmaylwin@ntu.edu.sg"> tmaylwin@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=kkluke" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=kkluke">Prof Luke Kang Kwong Kapathy</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Chair, School of Social Sciences<br/>Professor, School of Humanities<br/>Chair, SSS, School of Social Sciences (SSS)<br/>
+Email: <a href="mailto: kkluke@ntu.edu.sg"> kkluke@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="/aboutus/People/Documents/Fabian%20Lim.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="https://www.researchgate.net/profile/Jorgen_Schlundt">Professor Joergen Schlundt</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Division of Chemical and Biomolecular Engineering (CBE)<br/>
+Email: <a href="mailto: schlundt@ntu.edu.sg"> schlundt@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="/aboutus/People/Documents/Fabian%20Lim.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://www.soh.ntu.edu.sg/Programmes/linguistics/Faculty%20and%20Staff/Pages/Francis-Wong.aspx">Francis Wong Chun Kit</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Assistant Professor	<br/>Telephone: 6592 7880<br/>
+Email: <a href="mailto: franciswong@ntu.edu.sg"> franciswong@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="c("https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID", "zqshen&CategoryDescription", "InternetCommunications")" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=zqshen&CategoryDescription=InternetCommunications">Dr Shen Zhiqi</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Senior Lecturer, School of Computer Science and Engineering<br/>
+Email: <a href="mailto: zqshen@ntu.edu.sg"> zqshen@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/PublishingImages/Sanjay%20Chotirmall.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/Pages/Sanjay-Chotirmall.aspx">Assistant Professor Sanjay Haresh Chotirmall</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>MB BCh BAO (NUI) (Hons), FRCPI, FCCP, MRCP (UK) (London), PhD<br/>Assistant Professor and Provost's Chair in Molecular Medicine<br/>Principal Investigator, Translational Respiratory Research Laboratory<U+200B><br/>
+Email: <a href="mailto: schotirmall@ntu.edu.sg"> schotirmall@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=D.CAMPOLO" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=D.CAMPOLO">Assoc Prof Domenico Campolo</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Associate Professor, School of Mechanical & Aerospace Engineering<br/>Assistant Chair (Research), School of Mechanical and Aerospace Engineering (MAE)<br/>
+Email: <a href="mailto: d.campolo@ntu.edu.sg"> d.campolo@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=AKHGOH" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=AKHGOH">Assoc Prof Goh Kim Huat</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Associate Professor, College of Business (Nanyang Business School) - Division of Information Technology & Operations Management<br/>
+Email: <a href="mailto: akhgoh@ntu.edu.sg"> akhgoh@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=ASHLGOH" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2020</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=ASHLGOH">Assoc Prof Goh Hoe Lian, Dion</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Associate Professor, Wee Kim Wee School of Communication and Information<br/>
+Email: <a href="mailto: ashlgoh@ntu.edu.sg"> ashlgoh@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=ANDYHYHO" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2019</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ANDYHYHO">Assoc Prof Ho Hau Yan Andy</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Associate Professor, School of Social Sciences<br/>
+Email: <a href="mailto: andyhyho@ntu.edu.sg"> andyhyho@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=ANDYKHONG" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2020</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=ANDYKHONG">Assoc Prof Andy Khong Wai Hoong</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Associate Dean (Students), College of Engineering<br/>Associate Professor, School of Electrical & Electronic Engineering<br/>
+Email: <a href="mailto: andykhong@ntu.edu.sg"> andykhong@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=LINQIU" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=LINQIU">Assoc Prof Qiu Lin</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Associate Professor, School of Social Sciences<br/>
+Email: <a href="mailto: linqiu@ntu.edu.sg"> linqiu@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="c("https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID", "yi_zhang&CategoryDescription", "MechanicalManufacturingEngineering")" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=yi_zhang&CategoryDescription=MechanicalManufacturingEngineering">Asst Prof Zhang Yi</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Assistant Professor, School of Mechanical & Aerospace Engineering<br/>
+Email: <a href="mailto: yi_zhang@ntu.edu.sg"> yi_zhang@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/PublishingImages/Hiroshi%20Makino.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/Pages/Hiroshi-Makino.aspx">Nanyang Assistant Professor Hiroshi Makino</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>PhD<br/>Nanyang Assistant Professor<br/>Principal Investigator, Systems Neuroscience Laboratory<U+200B><br/>
+Email: <a href="mailto: hmakino@ntu.edu.sg"> hmakino@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="/aboutus/People/Documents/Fabian%20Lim.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="https://cradle.ntu.edu.sg/aboutus/OurPeople/Affiliates/Pages/MasatoKAWABATA.aspx">Masato Kawabata</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Assistant Professor<br/>Exercise and Sport Psychology,<br/>Physical Education and Sports Science (PESS),<br/>National Institute of Education<br/>
+Email: <a href="mailto: masato.kawabata@nie.edu.sg"> masato.kawabata@nie.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/PublishingImages/Yasunori%20Saheki.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/Pages/Yasunori-Saheki.aspx">Nanyang <U+200B>Assistant Professor Yasunori Saheki</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>MD, PhD<br/>Principal Investigator, Cell Biology <U+200B>and Molecular Neuroscience Laboratory<br/>
+Email: <a href="mailto: yasunori.saheki@ntu.edu.sg"> yasunori.saheki@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=CHINHONG.TAN" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=CHINHONG.TAN">Asst Prof Tan Chin Hong</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Assistant Professor, School of Social Sciences<br/>
+Email: <a href="mailto: chinhong.tan@ntu.edu.sg"> chinhong.tan@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://research.ntu.edu.sg/expertise/AcademicProfile/Pages/StaffPhoto.aspx?ST_EMAILID=TTDANG" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=TTDANG">Asst Prof Dang Thuy Tram</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Assistant Professor, School of Chemical and Biomedical Engineering<br/>
+Email: <a href="mailto: ttdang@ntu.edu.sg"> ttdang@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="c("https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID", "YANSONGM&CategoryDescription", "BiomedicalSciencesLifeSciences")" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=YANSONGM&CategoryDescription=BiomedicalSciencesLifeSciences">Asst Prof Miao Yansong</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Nanyang Assistant Professor, School of Biological Sciences<br/>
+Email: <a href="mailto: yansongm@ntu.edu.sg"> yansongm@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/PublishingImages/Lorainne%20Tudor%20Car.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/Pages/Lorainne-Tudor-Car.aspx">Assistant Professor Lorainne Tudor Car</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>MD PhD MSc (LSE) <br/>Assistant Professor of Evidence Based Medicine<br/>Principal Investigator, Evidence Based Medicine & Digital Patient Activation Research Hub<U+200B><br/>
+Email: <a href="mailto: lorainne.tudor.car@ntu.edu.sg"> lorainne.tudor.car@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="/aboutus/People/Documents/Fabian%20Lim.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="https://www.researchgate.net/profile/Christopher_Cummings2">Asst Prof. Christopher Cummings</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>Wee Kim Wee School of Communication and Information, NTU<br/>
+Email: <a href="mailto: ccumings@ntu.edu.sg"> ccumings@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
+<tr style="font-size: 12px;">
+<th rowspan="1" colspan="1" style="width: 130px; height: 120px; text-align: center;">
+
+<img src="/aboutus/People/Documents/Fabian%20Lim.jpg" alt="" style="width: 110px; height: auto;"/><br/><p class="MsoNormal" style="line-height: 1.8; font-size: 12px;">
+<span>Since 2017</span></p></th>
+
+<th rowspan="1" colspan="1" style="height: 120px; text-align: left; font-size: 12px;"><br/><br/>
+<p style="line-height: normal; font-size: 14px; font-weight: bold;"><span>
+
+<a href="https://sss.ntu.edu.sg/Programmes/psychology/Documents/CV_EunaeCHO_SSS.pdf">Assistant Professor Eunae Cho</a></span></p><span>
+
+</span>
+<p class="MsoNormal" style="line-height: normal; font-size: 12px;">
+<span>PhD<br/>Psychology, School of Social Sciences<br/>
+Email: <a href="mailto: EunaeCho@ntu.edu.sg"> EunaeCho@ntu.edu.sg</a>
+</span></p>
+</th></tr>
+
+
+
